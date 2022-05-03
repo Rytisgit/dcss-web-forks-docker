@@ -1,3 +1,7 @@
 [submodule "crawl"]
 	path = crawl
 	url = https://github.com/crawl/crawl.git
+[submodule "dcssca"]
+	path = dcssca
+	url = https://github.com/jeremygurr/dcssca.git
+	branch = master
