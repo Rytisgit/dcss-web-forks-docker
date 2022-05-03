@@ -2,7 +2,7 @@ version: "2"
 services:
   crawl-web:
     build: .
-    image: kelvie/dcss-webtiles:latest
+    image: ca-multi-server:latest
     ports:
       - 9090:8080
     volumes:
